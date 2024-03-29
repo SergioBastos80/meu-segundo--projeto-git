@@ -1,0 +1,90 @@
+.poppins-regular {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .poppins-medium {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  .poppins-bold {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:"Poppins", sans-serif;
+ }
+
+ header {
+    margin-top: 47px;
+    margin-left: 42px;
+ }
+
+ .link-menu {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0.875px;
+    text-align: center;
+    color:  #17233D;
+    margin-right: 32px;
+    cursor: pointer;
+ }
+.button-cante {
+    background: #6FBF44;
+    border: 1px solid #4CB538;
+    border-radius: 6px;
+    width: 124px;
+    height: 51px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 1px;
+    color: #FFFFFF;
+}
+
+img {
+    margin: 163px 0 0 123px;
+    display: inline-block;
+}
+ 
+div {
+    display: inline-block;
+    margin-left: 84px;
+    width: 493px;
+}
+h1 {
+    font-size: 62px;
+    font-weight: 700;
+    line-height: 82px;
+    color: #161A49;
+}
+
+ p {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 33px;
+    letter-spacing: 0.5px;
+    color: #4B505A;
+    margin-top: 47px;
+    margin-bottom: 55px;
+}
+.button-saiba-mais {
+   font-size: 18px;
+   font-weight: 500;
+   line-height: 27px;
+   letter-spacing: 1px;
+   color: #6FBF44;
+   cursor: pointer;
+   background: transparent;
+   border: none;
+}
